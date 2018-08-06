@@ -1,4 +1,10 @@
+# React Redux Tutorial
+
+This is a React Redux tutorial I did.
+The complete tutorial can be found at [https://www.valentinog.com/blog/react-redux-tutorial-beginners/](https://www.valentinog.com/blog/react-redux-tutorial-beginners/). Below is the readme that came with cloning this repo.
+
 # webpack-4-quickstart
+
 > Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
 
 [![Donate](https://img.shields.io/badge/donate-patreon-orange.svg)](https://www.patreon.com/valentinogagliardi)
