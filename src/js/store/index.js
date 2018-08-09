@@ -11,5 +11,6 @@ import { createStore } from 'redux';
 import rootReducer from '../reducers/index';
 
 const store = createStore(rootReducer);
-
+//Uncomment line below to use store.getState() from browser console.
+//window.store = store;
 export default store;

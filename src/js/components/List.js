@@ -13,6 +13,7 @@ exact part of the store it needs.
 The List component receives the prop articles, which is a copy
 of the articles array.  Such array lives inside the Redux state we
 created earlier.  It comes from the reducer.
+Tip: Validate props with PropTypes.
 */
 
 import React from 'react';
